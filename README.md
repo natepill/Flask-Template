@@ -6,7 +6,7 @@
 
 
 
-# Deployment Instructions to Heroku
+# Deployment Instructions From The Root Directory
 ## Commands to Run
 * virtualenv env
 * source env/bin/activate
@@ -28,4 +28,6 @@
 
 
 # Notes
+* Some commands have already been run in order to deploy a basic flask app
 * Used 'pip3-freeze > requirements.txt' on personal project so there may be unnecessary requirements in requirements.txt for your project
+
