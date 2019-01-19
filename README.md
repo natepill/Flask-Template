@@ -1,5 +1,5 @@
 #Prerequisites
-* Installed Git, initialized, committed, and pushed to remote git repository
+* Installed Git, git initialized in local project, committed, and pushed to remote git repository
 * Installed Heroku CLI and logged in to Heroku account (if needed)
 * Installed Virtual ENV
 * Installed Pip3
@@ -17,6 +17,10 @@
 * touch Procfile
 * echo "web: gunicorn app:app" > Procfile
 * heroku create
+* git add .
+* git commit -m 'Whatever message'
+* git push heroku master
+
 
 
 
