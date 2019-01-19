@@ -25,7 +25,5 @@
 
 
 
-
-
 # Notes
 * Used 'pip3-freeze > requirements.txt' on personal project so there may be unnecessary requirements in requirements.txt for your project
