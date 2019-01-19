@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 * Installed Git, git initialized in local project, committed, and pushed to remote git repository
 * Installed Heroku CLI and logged in to Heroku account (if needed)
 * Installed Virtual ENV
