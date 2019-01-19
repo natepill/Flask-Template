@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 * Installed Git, git initialized in local project, committed, and pushed to remote git repository
 * Installed Heroku CLI and logged in to Heroku account (if needed)
 * Installed Virtual ENV
@@ -6,7 +6,7 @@
 
 
 
-# Deployment Instructions to Heroku
+# Deployment Instructions From The Root Directory
 ## Commands to Run
 * virtualenv env
 * source env/bin/activate
@@ -26,4 +26,6 @@
 
 
 # Notes
+* Some commands have already been run in order to deploy a basic flask app
 * Used 'pip3-freeze > requirements.txt' on personal project so there may be unnecessary requirements in requirements.txt for your project
+* link to Heroku: https://protected-island-49632.herokuapp.com/
