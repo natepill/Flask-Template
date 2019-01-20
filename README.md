@@ -26,6 +26,7 @@
 
 
 # Notes
+* Heroku Dev Center's Guide on Deployment: https://devcenter.heroku.com/articles/getting-started-with-python
 * Some commands have already been run in order to deploy a basic flask app
 * Used 'pip3-freeze > requirements.txt' on personal project so there may be unnecessary requirements in requirements.txt for your project
 * link to Heroku: https://protected-island-49632.herokuapp.com/
